@@ -8,6 +8,8 @@
 
 </div>
 
+
+<!--
 ## ✨ About Me
 
 - 💻 Front-end developer passionate about building real-world web applications
@@ -15,7 +17,7 @@
 - ⚡ Fun fact: I love clean UI design and fast code
 - 📫 How to reach me: [mohammad.ebadi.code@gmail.com](mailto:mohammad.ebadi.code@gmail.com)
 
-<!--
+
 ---
 
 ## 👁️ Profile Views

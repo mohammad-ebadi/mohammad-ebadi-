@@ -20,29 +20,6 @@
 - ⚡ Fun fact: I love clean UI design and fast code
 - 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
 
----
-
-## 🔥 GitHub Streak Stats
-
-[GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-ebadi&theme=tokyonight)
-
----
-
-## 📊 Most Used Languages
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebadi&layout=compact&theme=tokyonight)
-
----
-
-## 🌟 GitHub Stats
-
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-ebadi&show_icons=true&theme=tokyonight)
-
----
-
-## 🧠 GitHub Contribution Graph
-
-[GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohammad-ebadi&theme=tokyonight)
 
 ---
 
@@ -52,19 +29,7 @@
 
 ---
 
-## 💬 Daily Dev Quote
 
-[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-## ⏳ WakaTime Stats (If enabled)
-
-<!-- Requires a connected Wakatime account -->
-
-[Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammad-ebadi)
-
----
 
 ## 🛠️ My Tech Stack
 

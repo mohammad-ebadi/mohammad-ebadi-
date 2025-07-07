@@ -24,31 +24,31 @@
 
 ## 🔥 GitHub Streak Stats
 
-[GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+[GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-ebadi&theme=tokyonight)
 
 ---
 
 ## 📊 Most Used Languages
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebadi&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌟 GitHub Stats
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-ebadi&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🧠 GitHub Contribution Graph
 
-[GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
+[GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohammad-ebadi&theme=tokyonight)
 
 ---
 
 ## 👁️ Profile Views
 
-[Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
+[Profile views](https://komarev.com/ghpvc/?username=mohammad-ebadi&color=blueviolet)
 
 ---
 
@@ -62,7 +62,7 @@
 
 <!-- Requires a connected Wakatime account -->
 
-[Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_GITHUB_USERNAME)
+[Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammad-ebadi)
 
 ---
 

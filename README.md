@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I love clean UI design and fast code
 - 📫 How to reach me: [mohammad.ebadi.code@gmail.com](mailto:mohammad.ebadi.code@gmail.com)
 
-
+<!--
 ---
 
 ## 👁️ Profile Views
@@ -55,3 +55,6 @@
 ---
 
 <p align="center">Made with ❤️ using markdown</p>
+
+
+ -->

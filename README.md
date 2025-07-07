@@ -67,3 +67,100 @@
 
 
 
+
+
+
+
+
+
+
+
+<h1 align="center">Hi 👋, Welcome to My GitHub Profile!</h1>
+
+## ✨ About Me
+
+- 💻 Front-end developer passionate about building real-world web applications
+- 🌱 Currently learning Next.js & TypeScript
+- ⚡ Fun fact: I love clean UI design and fast code
+- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+## 🔥 GitHub Streak Stats
+
+[GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-ebadi&theme=tokyonight)
+
+---
+
+## 📊 Most Used Languages
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebadi&layout=compact&theme=tokyonight)
+
+---
+
+## 🌟 GitHub Stats
+
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-ebadi&show_icons=true&theme=tokyonight)
+
+---
+
+## 🧠 GitHub Contribution Graph
+
+[GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohammad-ebadi&theme=tokyonight)
+
+---
+
+## 👁️ Profile Views
+
+[Profile views](https://komarev.com/ghpvc/?username=mohammad-ebadi&color=blueviolet)
+
+---
+
+## 💬 Daily Dev Quote
+
+[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+## ⏳ WakaTime Stats (If enabled)
+
+<!-- Requires a connected Wakatime account -->
+
+[Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammad-ebadi)
+
+---
+
+## 🛠️ My Tech Stack
+
+[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+[CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+[JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+[TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+[Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+[Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+[Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+[GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+---
+
+## 📫 Connect With Me
+
+[Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)
+
+[LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+
+---
+
+<p align="center">Made with ❤️ using markdown</p>
+
+
+

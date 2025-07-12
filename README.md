@@ -8,54 +8,6 @@
 
 </div>
 
-<!--
-## ✨ About Me
-
-- 💻 Front-end developer passionate about building real-world web applications
-- 🌱 Currently learning Next.js & TypeScript
-- ⚡ Fun fact: I love clean UI design and fast code
-- 📫 How to reach me: [mohammad.ebadi.code@gmail.com](mailto:mohammad.ebadi.code@gmail.com)
-
-
----
-
-## 👁️ Profile Views
-
-[Profile views](https://komarev.com/ghpvc/?username=mohammad-ebadi&color=blueviolet)
-
----
-
-## 🛠️ My Tech Stack
-
-[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-[CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-[JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-[TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-[Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-[Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-[GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
----
-
-## 📫 Connect With Me
-
-[Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=mohammad.ebadi.code@gmail.com&logoColor=white)
-
-[LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-
----
-
-<p align="center">Made with ❤️ using markdown</p>
-
-
- -->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>

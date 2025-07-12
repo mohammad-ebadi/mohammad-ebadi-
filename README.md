@@ -16,5 +16,8 @@
 </p>
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+mohammad)](https://git.io/typing-svg)
+
+
 
  

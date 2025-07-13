@@ -6,17 +6,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-ebadi)](https://github.com/mohammad-ebadi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebadi)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
 <!-- بازدیدها -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-ebadi&color=blue)
 
-<!-- فالوئرهای گیت‌هاب -->
-![GitHub followers](https://img.shields.io/github/followers/mohammad-ebadi?label=Followers&style=social)
-
-<!-- تروفی‌ها -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-ebadi)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 

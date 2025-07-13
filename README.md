@@ -15,21 +15,10 @@
 <!-- فالوئرهای گیت‌هاب -->
 ![GitHub followers](https://img.shields.io/github/followers/mohammad-ebadi?label=Followers&style=social)
 
-<!-- زبان مورد علاقه -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebadi&layout=compact)
-
-<!-- آمار کلی گیت‌هاب -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-ebadi&show_icons=true&theme=tokyonight)
-
 <!-- تروفی‌ها -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-ebadi)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- وضعیت فعالیت در گیت‌هاب -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammad-ebadi&theme=tokyonight)
 
-<!-- شبکه‌های اجتماعی -->
-[![Twitter](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
 
 </div>

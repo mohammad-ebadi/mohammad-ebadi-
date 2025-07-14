@@ -10,5 +10,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-ebadi&color=blue)
 
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-ebadi)](https://github.com/mohammad-ebadi/github-readme-stats)

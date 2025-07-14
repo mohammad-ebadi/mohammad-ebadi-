@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&pause=1000&color=000000&width=435&lines=Hi+%F0%9F%91%8B%2C+Welcome+to+My+GitHub+Profile!;Full-Stack++web+developer+%F0%9F%92%BB;Always+learning+new+things++%F0%9F%93%9D)](https://git.io/typing-svg)
 
+<h3 align="center">Full-stack Web Developer | Lifelong Learner | AI-Ready Developer</h3>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohammad-ebadi)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-ebadi&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebadi)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,8 +20,8 @@
 
 
 
-<h1 align="center">Hi there, I'm Shaktik 👋</h1>
-<h3 align="center">Full-stack Web Developer | Lifelong Learner | AI-Ready Developer</h3>
+
+
 
 <p align="center">
 <a href="https://github.com/YOUR_USERNAME">

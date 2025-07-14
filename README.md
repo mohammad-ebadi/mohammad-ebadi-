@@ -1,9 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&pause=1000&color=000000&width=435&lines=Hi+%F0%9F%91%8B%2C+Welcome+to+My+GitHub+Profile!;Full-Stack++web+developer+%F0%9F%92%BB;Always+learning+new+things++%F0%9F%93%9D)](https://git.io/typing-svg)
 
-<h3 align="center">Full-stack Web Developer | Lifelong Learner | AI-Ready Developer</h3>
+---
 
 <!--
+
+<h3 align="center">Full-stack Web Developer | Lifelong Learner | AI-Ready Developer</h3>
+
+
 ### 👨‍💻 About Me
 
 I'm a passionate web developer who believes that technology + creativity = future.

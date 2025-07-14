@@ -6,9 +6,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-ebadi)](https://github.com/mohammad-ebadi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebadi)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- بازدیدها -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-ebadi&color=blue)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-ebadi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 

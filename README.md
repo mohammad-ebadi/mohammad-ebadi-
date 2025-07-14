@@ -24,7 +24,7 @@
 
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/mohammad-ebadi">
 <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=Code.+Create.+Evolve.;10%2B+Hours+Learning+Daily;JavaScript+|+React+|+Node+|+Next.js;Open+to+Freelance+%26+Remote+Jobs](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=Code.+Create.+Evolve.;10%2B+Hours+Learning+Daily;JavaScript+%7C+React+%7C+Node+%7C+Next.js;Open+to+Freelance+%26+Remote+Jobs)" alt="Typing SVG" />
 </a>
 </p>

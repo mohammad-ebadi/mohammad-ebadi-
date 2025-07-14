@@ -1,3 +1,17 @@
+### 👨‍💻 About Me
+
+I'm a passionate web developer who believes that technology + creativity = future.
+
+Currently, I'm focused on mastering both front-end and back-end skills with a strong emphasis on AI compatibility and performance optimization.
+
+- 🌱 I spend **10+ hours daily** learning and building projects
+- 🧠 Building a strong foundation in **JavaScript, TypeScript, React, Node.js, Firebase, and more**
+- 🎯 Goal: To become an **AI-native developer** ready for the evolving future of tech
+- 📍 Open to **freelance** and **remote opportunities** from across the globe
+
+---
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&pause=1000&color=000000&width=435&lines=Hi+%F0%9F%91%8B%2C+Welcome+to+My+GitHub+Profile!;Full-Stack++web+developer+%F0%9F%92%BB;Always+learning+new+things++%F0%9F%93%9D)](https://git.io/typing-svg)
@@ -31,18 +45,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I'm a passionate web developer who believes that technology + creativity = future.
-
-Currently, I'm focused on mastering both front-end and back-end skills with a strong emphasis on AI compatibility and performance optimization.
-
-- 🌱 I spend **10+ hours daily** learning and building projects
-- 🧠 Building a strong foundation in **JavaScript, TypeScript, React, Node.js, Firebase, and more**
-- 🎯 Goal: To become an **AI-native developer** ready for the evolving future of tech
-- 📍 Open to **freelance** and **remote opportunities** from across the globe
-
----
 
 ### 🛠 Tech Stack & Tools
 

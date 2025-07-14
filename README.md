@@ -28,7 +28,7 @@ Currently, I'm focused on mastering both front-end and back-end skills with a st
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohammad-ebadi)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-ebadi&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebadi&card_width="300px")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebadi&card_width="800px")](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-ebadi&color=blue)

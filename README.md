@@ -41,7 +41,7 @@ Currently, I'm focused on mastering both front-end and back-end skills with a st
 
 
 
-
+<!--
 
 <p align="center">
 <a href="https://github.com/mohammad-ebadi">
@@ -51,6 +51,7 @@ Currently, I'm focused on mastering both front-end and back-end skills with a st
 
 ---
 
+ 
 
 ### 🛠 Tech Stack & Tools
 
@@ -68,3 +69,5 @@ Currently, I'm focused on mastering both front-end and back-end skills with a st
 - 📂 [Full-stack Blog App](https://github.com/YOUR_USERNAME/blog-app) – Node.js + MongoDB + JWT Auth
 
 ---
+
+-->

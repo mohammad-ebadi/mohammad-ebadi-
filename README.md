@@ -3,7 +3,7 @@
 
 <h3 align="center">Full-stack Web Developer | Lifelong Learner | AI-Ready Developer</h3>
 
-
+<!--
 ### 👨‍💻 About Me
 
 I'm a passionate web developer who believes that technology + creativity = future.
@@ -16,6 +16,8 @@ Currently, I'm focused on mastering both front-end and back-end skills with a st
 - 📍 Open to **freelance** and **remote opportunities** from across the globe
 
 ---
+
+ -->
 
 
 <div align="center">

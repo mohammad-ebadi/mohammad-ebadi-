@@ -9,4 +9,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-ebadi&color=blue)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7dfda4b2-a82a-4fa1-a71a-dcc0fe64edc4/deploy-status)](https://app.netlify.com/projects/insta-react-mohammad/deploys)
+
 </div>

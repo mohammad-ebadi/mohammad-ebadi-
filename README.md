@@ -4,48 +4,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohammad-ebadi)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-ebadi)](https://github.com/mohammad-ebadi/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebadi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-ebadi&color=blue)
 
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-ebadi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
-
-
-
-
-
-
-
- 

@@ -69,7 +69,7 @@ Currently, I'm focused on mastering both front-end and back-end skills with a st
 - 🌐 [Personal Portfolio](https://yourportfolio.vercel.app/) – Next.js, Tailwind CSS, TypeScript
 - 🧠 [AI Chat UI](https://github.com/YOUR_USERNAME/ai-chat-ui) – OpenAI API, React, Tailwind
 - 📂 [Full-stack Blog App](https://github.com/YOUR_USERNAME/blog-app) – Node.js + MongoDB + JWT Auth
-
+ 
 ---
 
 -->

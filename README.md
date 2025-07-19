@@ -42,7 +42,6 @@ Currently, I'm focused on mastering both front-end and back-end skills with a st
 
 
 
-
 <!--
 
 <p align="center">

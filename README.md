@@ -36,7 +36,7 @@ Currently, I'm focused on mastering both front-end and back-end skills with a st
 </div>
 
 
-<img src="./line.svg" >
+
 
 
 

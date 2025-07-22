@@ -29,6 +29,8 @@ Currently, I'm focused on mastering both front-end and back-end skills with a st
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebadi)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-ebadi&color=blue)
 
+<img src="./line.svg" >
+
 </div>
 
 

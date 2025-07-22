@@ -30,7 +30,7 @@ Currently, I'm focused on mastering both front-end and back-end skills with a st
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-ebadi&color=blue)
 
 <img src="./line.svg" >
-<img src="./line3.svg" >
+<img src="./line3.svg" width="20px" >
 
 </div>
 
